@@ -24,7 +24,6 @@
         "[-5]% [Gold] <when below [-90] [Currency Trustworthyness]>",
         "[-5]% [Gold] <when below [-60] [Currency Trustworthyness]>",
         "[-5]% [Gold] <when below [-30] [Currency Trustworthyness]>",
-        "[-5]% [Gold] <when below [0] [Currency Trustworthyness]>",
         "[+5]% [Gold] <when above [30] [Currency Trustworthyness]>",
         "[+5]% [Gold] <when above [60] [Currency Trustworthyness]>",
         "[+5]% [Gold] <when above [90] [Currency Trustworthyness]>",
