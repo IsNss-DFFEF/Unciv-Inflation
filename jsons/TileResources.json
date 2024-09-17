@@ -4,5 +4,11 @@
 		"resourceType": "Strategic",
 		"revealedBy": "Economics",
 		"uniques": [],
+	},
+	{
+		"name": "Inflation",
+		"resourceType": "Strategic",
+		"revealedBy": "Economics",
+		"uniques": [],
 	}
 ]
