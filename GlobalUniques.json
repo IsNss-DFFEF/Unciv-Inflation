@@ -2,6 +2,19 @@
     "name": "Currency Trustworthyness",
     "uniques": [
 
+        // Base Increases
+
+        "Provides [100] [Currency Trustworthyness] <after discovering [Economics]>",
+        "Provides [50] [Currency Trustworthyness] <starting from the [Modern era]>",
+        "Provides [50] [Currency Trustworthyness] <starting from the [Atomic era]>",
+        "Provides [50] [Currency Trustworthyness] <starting from the [Information era]>",
+        "Provides [50] [Currency Trustworthyness] <starting from the [Future era]>",
+        "Provides [25] [Currency Trustworthyness] <after adopting [Order complete]>",
+        "Provides [25] [Currency Trustworthyness] <after adopting [Autocracy complete]>",
+        "Provides [25] [Currency Trustworthyness] <after adopting [Freedom complete]>",
+        "Provides [25] [Currency Trustworthyness] <after adopting [Commerce]>",
+        "Provides [25] [Currency Trustworthyness] <after adopting [Commerce complete]>",
+
         // Bonuses
 
         "[+1 Gold] per every [200] [Gold] <after discovering [Banking]>",
