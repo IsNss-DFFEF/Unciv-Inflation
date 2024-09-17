@@ -4,20 +4,35 @@
 
         // Base Increases
 
-        "Provides [100] [Currency Trustworthyness] <after discovering [Economics]>",
-        "Provides [50] [Currency Trustworthyness] <starting from the [Modern era]>",
-        "Provides [50] [Currency Trustworthyness] <starting from the [Atomic era]>",
-        "Provides [50] [Currency Trustworthyness] <starting from the [Information era]>",
-        "Provides [50] [Currency Trustworthyness] <starting from the [Future era]>",
-        "Provides [25] [Currency Trustworthyness] <after adopting [Order complete]>",
-        "Provides [25] [Currency Trustworthyness] <after adopting [Autocracy complete]>",
-        "Provides [25] [Currency Trustworthyness] <after adopting [Freedom complete]>",
-        "Provides [25] [Currency Trustworthyness] <after adopting [Commerce]>",
-        "Provides [25] [Currency Trustworthyness] <after adopting [Commerce complete]>",
+        "Provides [60] [Currency Trustworthyness] <after discovering [Economics]>",
+        "Provides [30] [Currency Trustworthyness] <starting from the [Modern era]>",
+        "Provides [30] [Currency Trustworthyness] <starting from the [Atomic era]>",
+        "Provides [30] [Currency Trustworthyness] <starting from the [Information era]>",
+        "Provides [30] [Currency Trustworthyness] <starting from the [Future era]>",
+        "Provides [15] [Currency Trustworthyness] <after adopting [Order complete]>",
+        "Provides [15] [Currency Trustworthyness] <after adopting [Autocracy complete]>",
+        "Provides [15] [Currency Trustworthyness] <after adopting [Freedom complete]>",
+        "Provides [15] [Currency Trustworthyness] <after adopting [Commerce]>",
+        "Provides [15] [Currency Trustworthyness] <after adopting [Commerce complete]>",
 
         // Inflation Effects
 
-        ""
-        
+        "[-1 Inflation] per every [6] [Currency Trustworthyness]",
+        "[-15]% [Gold] <when below [-240] [Currency Trustworthyness]>",
+        "[-5]% [Gold] <when below [-210] [Currency Trustworthyness]>",
+        "[-5]% [Gold] <when below [-180] [Currency Trustworthyness]>",
+        "[-5]% [Gold] <when below [-120] [Currency Trustworthyness]>",
+        "[-5]% [Gold] <when below [-90] [Currency Trustworthyness]>",
+        "[-5]% [Gold] <when below [-60] [Currency Trustworthyness]>",
+        "[-5]% [Gold] <when below [-30] [Currency Trustworthyness]>",
+        "[-5]% [Gold] <when below [0] [Currency Trustworthyness]>",
+        "[+5]% [Gold] <when above [30] [Currency Trustworthyness]>",
+        "[+5]% [Gold] <when above [60] [Currency Trustworthyness]>",
+        "[+5]% [Gold] <when above [90] [Currency Trustworthyness]>",
+        "[+5]% [Gold] <when above [120] [Currency Trustworthyness]>",
+        "[+5]% [Gold] <when above [150] [Currency Trustworthyness]>",
+        "[+5]% [Gold] <when above [180] [Currency Trustworthyness]>",
+        "[+5]% [Gold] <when above [210] [Currency Trustworthyness]>",
+        "[+15]% [Gold] <when above [240] [Currency Trustworthyness]>",
     ]
 }
