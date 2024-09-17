@@ -17,7 +17,6 @@
 
         // Inflation Effects
 
-        "[-1 Inflation] per every [6] [Currency Trustworthyness]",
         "[-15]% [Gold] <when below [-240] [Currency Trustworthyness]>",
         "[-5]% [Gold] <when below [-210] [Currency Trustworthyness]>",
         "[-5]% [Gold] <when below [-180] [Currency Trustworthyness]>",
